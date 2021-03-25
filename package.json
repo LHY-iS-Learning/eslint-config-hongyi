@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-hongyi",
+  "version": "1.0.0",
+  "description": "common typescript eslint config file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LHY-iS-Learning/eslint-config-hongyi.git"
+  },
+  "author": "LHY-iS-Learning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LHY-iS-Learning/eslint-config-hongyi/issues"
+  },
+  "homepage": "https://github.com/LHY-iS-Learning/eslint-config-hongyi#readme"
+}
